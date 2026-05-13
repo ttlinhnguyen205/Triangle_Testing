@@ -29,10 +29,6 @@ TriangleTesting/
 ├── Report_Lab04_Triangle_CFG_CC_Testing.md
 ├── Report_Lab05_UnitTest_Coverage.md
 │
-├── images/
-│   ├── maven-test-success.png
-│   └── jacoco-coverage.png
-│
 └── src/
     ├── main/
     │   └── java/
@@ -169,17 +165,6 @@ Kết quả coverage đạt:
 | Line Coverage                    | 100%    |
 | Method Coverage                  | 100%    |
 | Class Coverage                   | 100%    |
-
----
-
-## Minh chứng kết quả
-
-Các ảnh minh chứng được lưu trong thư mục `images/`:
-
-| Ảnh                      | Nội dung                                |
-| ------------------------ | --------------------------------------- |
-| `maven-test-success.png` | Kết quả chạy unit test bằng Maven/JUnit |
-| `jacoco-coverage.png`    | Kết quả JaCoCo đạt 100% coverage        |
 
 ---
 
