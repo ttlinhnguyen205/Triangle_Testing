@@ -29,10 +29,6 @@ TriangleTesting/
 ├── Report_Lab04_Triangle_CFG_CC_Testing.md
 ├── Report_Lab05_UnitTest_Coverage.md
 │
-├── images/
-│   ├── maven-test-success.png
-│   └── jacoco-coverage.png
-│
 └── src/
     ├── main/
     │   └── java/
