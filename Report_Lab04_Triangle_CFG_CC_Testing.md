@@ -290,3 +290,10 @@ Bộ test case đã kiểm thử đầy đủ các trường hợp:
 - Tam giác thường.
 
 Kết quả kiểm thử bằng JUnit cho thấy toàn bộ test case đều chạy thành công. Kết quả JaCoCo cho thấy chương trình đạt 100% Statement Coverage và 100% Branch Coverage. Vì vậy, bài kiểm thử đáp ứng đầy đủ yêu cầu đề bài.
+
+## 9. Minh chứng kết quả kiểm thử
+### Hình 1. Kết quả chạy test bằng Maven/JUnit
+<img width="893" height="345" alt="Screenshot 2026-05-13 171056" src="https://github.com/user-attachments/assets/69589bed-eaea-40db-8299-0e8b868561ed" />
+### Hình 2. Báo cáo JaCoCo đạt 100% coverage
+ <img width="1183" height="260" alt="Screenshot 2026-05-13 164142" src="https://github.com/user-attachments/assets/106327c4-a2ff-4a28-9886-7522986e7bc9" />
+
