@@ -168,17 +168,6 @@ Kết quả coverage đạt:
 
 ---
 
-## Minh chứng kết quả
-
-Các ảnh minh chứng được lưu trong thư mục `images/`:
-
-| Ảnh                      | Nội dung                                |
-| ------------------------ | --------------------------------------- |
-| `maven-test-success.png` | Kết quả chạy unit test bằng Maven/JUnit |
-| `jacoco-coverage.png`    | Kết quả JaCoCo đạt 100% coverage        |
-
----
-
 ## Kết luận
 
 Repository này hoàn thành cả Lab 4 và Lab 5 cho chương trình Java `Triangle`.
