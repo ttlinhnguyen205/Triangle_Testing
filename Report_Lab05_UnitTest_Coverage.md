@@ -247,8 +247,10 @@ Sau khi bổ sung các test case trên, bộ test đạt đầy đủ 100% State
 ## 12. Minh chứng kết quả kiểm thử
 
 ### Hình 1. Kết quả chạy test bằng Maven/JUnit
+ <img width="893" height="345" alt="Screenshot 2026-05-13 171056" src="https://github.com/user-attachments/assets/6868e056-5495-46c4-8461-dff5c44b599f" />
 
 ### Hình 2. Báo cáo JaCoCo đạt 100% coverage
+<img width="1183" height="260" alt="Screenshot 2026-05-13 164142" src="https://github.com/user-attachments/assets/dd5a1928-8d4f-457d-aa20-b1d8999162d8" />
 
 ---
 
